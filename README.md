@@ -1,4 +1,4 @@
-# 22122105-MDS273L--JAVA
+# 22122105-MDS273L-JAVA
 
 The repository contains muntiple java programs a the part of our Lab excersises in Christ University
 
