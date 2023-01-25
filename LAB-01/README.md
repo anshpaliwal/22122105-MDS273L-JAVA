@@ -1,10 +1,10 @@
 # 22122105-MDS273L-JAVA
 
-The repository contains muntiple java programs a the part of our Lab excersises in Christ University
+The repository contains muntiple java programs as the part of our Lab excersises in Christ University
 
-Name-Ansh Paliwal
-Reg_No-22122105
-Email_Id-ansh.paliwal@msds.christuniversity.in
+Name-Ansh Paliwal,
+Reg_No-22122105,
+Email_Id-ansh.paliwal@msds.christuniversity.in,
 Class- M.Sc Data Science
 
 LAB Program:
