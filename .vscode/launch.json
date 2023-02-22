@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch banking_system",
+            "request": "launch",
+            "mainClass": "Lab_04.banking_system",
+            "projectName": "22122105-MDS273L--JAVA_fcdf8f2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch bank_account_details",
+            "request": "launch",
+            "mainClass": "Lab_04.bank_account_details",
+            "projectName": "22122105-MDS273L--JAVA_fcdf8f2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab_01",
+            "request": "launch",
+            "mainClass": "Lab_01",
+            "projectName": "22122105-MDS273L--JAVA_fcdf8f2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MenuDrivenProgram",
+            "request": "launch",
+            "mainClass": "Lab_02.MenuDrivenProgram",
+            "projectName": "22122105-MDS273L--JAVA_fcdf8f2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stats",
+            "request": "launch",
+            "mainClass": "Lab_03.Stats",
+            "projectName": "22122105-MDS273L--JAVA_fcdf8f2a"
+        }
+    ]
+}
