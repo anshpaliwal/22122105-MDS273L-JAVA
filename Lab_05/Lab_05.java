@@ -1,3 +1,5 @@
+package Lab_05;
+
 import java.util.Scanner;
 
 class Student {
@@ -27,7 +29,7 @@ class Student {
     }
 }
 
-public class Lab5 {
+public class Lab_05 {
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
