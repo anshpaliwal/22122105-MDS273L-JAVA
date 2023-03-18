@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Lab5",
+            "request": "launch",
+            "mainClass": "Lab_05.Lab5",
+            "projectName": "22122105-MDS273L--JAVA_fcdf8f2a"
+        },
+        {
+            "type": "java",
+            "name": "Lab5",
+            "request": "launch",
+            "mainClass": "Lab5",
+            "projectName": "22122105-MDS273L--JAVA_fcdf8f2a"
+        },
+        {
+            "type": "java",
+            "name": "student_details",
+            "request": "launch",
+            "mainClass": "student_details",
+            "projectName": "22122105-MDS273L--JAVA_fcdf8f2a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "22122105-MDS273L--JAVA_fcdf8f2a"
+        },
+        {
+            "type": "java",
             "name": "Launch banking_system",
             "request": "launch",
             "mainClass": "Lab_04.banking_system",
