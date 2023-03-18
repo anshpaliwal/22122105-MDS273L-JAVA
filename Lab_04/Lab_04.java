@@ -6,13 +6,13 @@ import java.util.Scanner;
 //Importing the LocalDateTime class
 import java.time.LocalDateTime;
 
-public class banking_system{ // Creating the class Banking_system
+public class Lab_04{ // Creating the class Banking_system
     private int accountNumber; //Creating the global variables account_Number,account_HolderName,Account_Balance
     private String accountHolderName;
     private double accountBalance;
     private ArrayList<String> transactions;
 
-public banking_system(int accountNumber, String accountHolderName, double accountBalance) {
+public Lab_04(int accountNumber, String accountHolderName, double accountBalance) {
         this.accountNumber = accountNumber;
         this.accountHolderName = accountHolderName;
         this.accountBalance = accountBalance;
@@ -66,7 +66,7 @@ public banking_system(int accountNumber, String accountHolderName, double accoun
             String accountHolderName = scanner.nextLine();
             System.out.println("Enter initial account balance:");
             double accountBalance = scanner.nextDouble();
-            banking_system bankAccount = new banking_system(accountNumber, accountHolderName, accountBalance);
+            Lab_04 bankAccount = new Lab_04(accountNumber, accountHolderName, accountBalance);
 
             // Display menu
             int choice;

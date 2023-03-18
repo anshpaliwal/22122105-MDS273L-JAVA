@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Lab_04",
+            "request": "launch",
+            "mainClass": "Lab_04.Lab_04",
+            "projectName": "22122105-MDS273L--JAVA_fcdf8f2a"
+        },
+        {
+            "type": "java",
             "name": "Lab_03",
             "request": "launch",
             "mainClass": "Lab_03.Lab_03",
