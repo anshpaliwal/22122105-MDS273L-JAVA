@@ -4,15 +4,15 @@ The repository contains muntiple java programs as the part of our Lab excersises
 
 Name-Ansh Paliwal,
 Reg_No-22122105,
-Email_Id-ansh.paliwal@msds.christuniversity.in,
+Email_Id-ansh.paliwal@msds.christuniversity.in
 Class- M.Sc Data Science
 
 LAB_03 Question:
 
 Create a java program that performs the following operation:-
 
--The program should collect an integer array from the user.
--After the array is entered, you need to create a menu of items.
+-The program should collect an integer array from the user
+-After the array is entered, you need to create a menu of items
 
 1.Find the Mean Value
 2.Find the Median Value
