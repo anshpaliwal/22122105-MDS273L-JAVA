@@ -5,7 +5,7 @@ import java.util.*;
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Stats{
+public class Lab_03{
     public static void main(String[] args) {
         try (//Taking input for the array from the user
         Scanner sc = new Scanner(System.in)) {
