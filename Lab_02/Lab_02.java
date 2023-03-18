@@ -1,7 +1,7 @@
 package Lab_02;
 import java.util.Scanner;
 
-public class MenuDrivenProgram {
+public class Lab_02 {
     private static final int MAX_LENGTH = 1024;
     private static String[] names = new String[MAX_LENGTH];
     private static int count = 0;

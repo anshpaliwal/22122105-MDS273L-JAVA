@@ -1,4 +1,13 @@
-Lab-02 Exercise Question
+# 22122105-MDS273L-JAVA
+
+The repository contains muntiple java programs as the part of our Lab excersises in Christ University
+
+Name-Ansh Paliwal,
+Reg_No-22122105,
+Email_Id-ansh.paliwal@msds.christuniversity.in
+Class- M.Sc Data Science
+
+LAB_02 Question:
 
 You are supposed to create a menu-driven program that has the following menu options:
 
@@ -18,5 +27,3 @@ Constraints:
 5.Format your results properly!!
 
 Mandatory NOTE: your readme.md file should also contain a new task which is to draw a detailed flow chart of the program that you are doing.
-
-Flow Chart-:
